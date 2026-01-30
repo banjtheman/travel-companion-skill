@@ -1,6 +1,8 @@
 ---
 name: travel-companion
-description: Plan trips, search flights/hotels on Expedia, discover destinations via TikTok, Instagram, and Google Maps, check weather, and email itineraries. Uses the OpenClaw-managed browser with `profile: "openclaw"`. Use when users want travel planning help, destination recommendations, flight/hotel searches, or trip itineraries.
+description: Plan trips, search flights/hotels on Expedia, discover destinations via TikTok, Instagram, and Google Maps, check weather, and email itineraries. Uses the OpenClaw-managed browser. Use when users want travel planning help, destination recommendations, flight/hotel searches, or trip itineraries.
+metadata:
+  tags: travel, trip, itinerary, flights, hotels, planning
 ---
 
 # Travel Companion
